@@ -1,0 +1,46 @@
+body{
+    background-color: #F3F1FF;
+}
+.brand_logo{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.top_name{
+    color: rgb(14, 80, 223);
+}
+main{
+    max-width: 870px;
+}
+.player_name{
+    padding: 8px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.blog img{
+    width: 177px;
+}
+.by_color{
+    color: rgb(125, 128, 131);
+}
+.name_color{
+    color: rgb(50, 50, 216);
+    text-align: none;
+}
+.container_body{
+    padding: 50px 20px;
+    border-radius: 15px solid;
+    
+}
+.card{
+    padding: 12px;
+}
+.card-text{
+    color: rgb(201, 49, 74);
+}
+.buy_now_button{
+    background-color: rgb(228, 144, 20);
+    padding: 5px 10px;
+    border-radius: 8px;
+}
